@@ -1,0 +1,16 @@
+.card p{
+    margin: .24rem 0;
+    font-size: small;
+    font-weight: 500;
+}
+.card p span{
+    font-weight: 700;
+}
+
+.card h4{
+    margin:.8rem 0;
+    font-weight:900;
+}
+.card img{
+    border-radius: .2rem;
+}
